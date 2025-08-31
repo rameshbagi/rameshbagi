@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rameshbagi
-- 👀 I’m interested in data scientiest
+- 👀 I’m interested in data science and dat analysis
 - 🌱 I’m currently learning  data science  
 - 📫 How to reach me- https://www.linkedin.com/in/ramesh-bagi-80a630299/
 
